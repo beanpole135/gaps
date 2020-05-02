@@ -1,8 +1,8 @@
-package main
+package common
 
 import (
-	"crypto/rand",
-	"crypto/rsa",
+	"crypto/rand"
+	"crypto/rsa"
 	"encoding/base64"
 )
 
